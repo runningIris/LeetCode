@@ -8,15 +8,16 @@
 #include <iostream>
 #include <vector>
 
+// 遍历到每个值时都与之前的所有值做比较，如有相同，则 erase 当前值，时间复杂度：O(n²)
 class Solution {
 public:
     int removeDuplicates(std::vector<int>& nums) {
         int i = 0;
-        
+
         int length = (int)nums.size();
-        
+
         bool isDuplicated = false;
-        
+
         while (i < length) {
             for (int j = 0; j < i; j++) {
                 if (nums[i] == nums[j]) {
@@ -25,14 +26,14 @@ public:
                     isDuplicated = true;
                     break;
                 }
-                
+
                 isDuplicated = false;
             }
-            
+
             if (!isDuplicated) i++;
-            
+
         }
-        
+
         return length;
     }
 };
@@ -48,4 +49,3 @@ int main(int argc, const char * argv[]) {
 
     return 0;
 }
-
