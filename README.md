@@ -10,3 +10,5 @@
 - [给定一个整数数组，判断是否存在重复元素](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/contains-duplicate.cpp)
 - [只出现一次的数字](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/single-number.cpp)
 - [两个数组的交集 II](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/intersect.cpp)
+- [加一](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/plus-one.cpp)
+- [移动零](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/move-zeroes.cpp)
