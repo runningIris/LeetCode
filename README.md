@@ -15,3 +15,7 @@
 - [两数之和](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/two-sum.cpp)
 - [有效数独](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/is-valid-sudoku.cpp)
 - [旋转图片90度](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/rotate-image.cpp)
+
+#### String
+- [反转字符串](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/revert-string.cpp)
+- [整数反转](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/revert-int.cpp): 注意值的范围判断处理
