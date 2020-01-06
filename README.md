@@ -12,3 +12,5 @@
 - [两个数组的交集 II](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/intersect.cpp)
 - [加一](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/plus-one.cpp)
 - [移动零](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/move-zeroes.cpp)
+- [两数之和](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/two-sum.cpp)
+- [有效数独](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/is-valid-sudoku.cpp)
