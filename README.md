@@ -31,4 +31,4 @@
 - [反转字符串](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/revert-string.cpp)：对称交换便可
 - [整数反转](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/revert-int.cpp): 注意值的范围判断处理和类型的隐式转换
 - [有效的字母异位词](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/is-anagram.cpp)
-- [验证回文字符串]()
+- [验证回文字符串](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/is-palindrome.cpp)
