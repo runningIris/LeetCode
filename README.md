@@ -29,4 +29,7 @@
 - [x] [验证回文字符串](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/is-palindrome.cpp)
 - [x] [字符串转换整数 (atoi)](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/my-atoi.cpp)
 - [x] [最长公共前缀](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/longest-common-prefix.cpp)
-- [ ] [实现 strStr()](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/str-str.cpp)
+- [x] [实现 strStr()](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/str-str.cpp)
+- [ ] 外观数列
+
+### Linked List
