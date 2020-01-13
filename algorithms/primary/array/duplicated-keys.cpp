@@ -38,14 +38,44 @@ public:
     }
 };
 
-int main(int argc, const char * argv[]) {
-    std::vector<int> num({1,1,2,2,0,0,1,1,3,3,3,3,3,3,4});
-    Solution hello;
-    hello.removeDuplicates(num);
+// 使用 unordered_map 实现
 
-    for (int i = 0; i < num.size(); i++) {
-        std::cout << num[i] << std::endl;
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        int size = (int)nums.size();
+        unordered_map<int, int> map;
+        int i = 0;
+
+        while (i < size) {
+            int current = nums[i];
+            if (!map[current]) {
+                map[current] = 1;
+                i++;
+            } else {
+                nums.erase(nums.begin() + i);
+                size--;
+            }
+        }
+        return size;
     }
+};
 
-    return 0;
-}
+// 注意题目要求，是“排序数组”
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        int size = (int)nums.size();
+        int i = 1;
+
+        while (i < size) {
+            if (nums[i-1] == nums[i]) {
+                nums.erase(nums.begin() + i);
+                size--;
+            } else {
+                i++;
+            }
+        }
+        return size;
+    }
+};

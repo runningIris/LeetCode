@@ -5,7 +5,8 @@
 ### Array
 
 - [x] [从排序数组中删除重复项](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/duplicated-keys.cpp)
-    - [ ] 用 unordered_set 完成
+    - [x] 用 unordered_set 完成
+    - [x] 相邻两个值比较，如果相等则删除后一个值
 - [x] [买卖股票的最佳时机 II](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/max-profit.cpp)：只要第二天价格比当天低，则卖掉当天的股票
 - [x] [旋转一维数组](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/rotate.cpp)
 - [x] [给定一个整数数组，判断是否存在重复元素](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/contains-duplicate.cpp)
@@ -37,3 +38,4 @@
 - [x] [删除链表的倒数第N个节点](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/remove-nth-from-end.cpp)
 - [x] [反转链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/reverse-list.cpp)
 - [x] [合并两个有序链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/merge-two-list.cpp)
+- [ ] [回文链表]
