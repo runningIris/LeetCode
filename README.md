@@ -39,4 +39,6 @@
 - [x] [反转链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/reverse-list.cpp)
 - [x] [合并两个有序链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/merge-two-list.cpp)
 - [x] [环形链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/has-cycle.cpp) 给定一个链表，判断链表中是否有环。(快慢指针)
-- [ ] [回文链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/is-palindrome.cpp)
+
+### Binary Tree
+- [x] [二叉树的最大深度](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/max-depth.cpp)
