@@ -38,4 +38,5 @@
 - [x] [删除链表的倒数第N个节点](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/remove-nth-from-end.cpp)
 - [x] [反转链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/reverse-list.cpp)
 - [x] [合并两个有序链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/merge-two-list.cpp)
-- [ ] [回文链表]
+- [x] [环形链表: 给定一个链表，判断链表中是否有环。](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/has-cycle.cpp)
+- [ ] [回文链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/is-palindrome.cpp)
