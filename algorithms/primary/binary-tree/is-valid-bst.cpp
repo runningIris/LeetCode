@@ -17,7 +17,7 @@
 * };
 */
 
-// 递归
+// 递归，跟节点的值范围是(INT64_MIN, INT64_MAX)
 class Solution {
 public:
    bool isValidBST(TreeNode* root) {

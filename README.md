@@ -42,3 +42,6 @@
 
 ### Binary Tree
 - [x] [二叉树的最大深度](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/max-depth.cpp)
+- [x] [验证二叉搜索树是否有效](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/is-valid-bst.cpp)
+- [x] [验证对称二叉树](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/is-symmetric.cpp)
+- [ ] [二叉树的层次遍历](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/level-order.cpp)
