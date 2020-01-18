@@ -30,7 +30,7 @@
 - [x] [验证回文字符串](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/is-palindrome.cpp)
 - [x] [字符串转换整数 (atoi)](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/my-atoi.cpp)
 - [x] [最长公共前缀](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/longest-common-prefix.cpp)
-- [x] [实现 strStr()](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/str-str.cpp)
+- [x] [实现 strStr()](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/str-str.cpp) (使用KMP算法)
 - [x] [外观数列](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/count-and-say.cpp)
 
 ### Linked List
@@ -44,4 +44,4 @@
 - [x] [二叉树的最大深度](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/max-depth.cpp)
 - [x] [验证二叉搜索树是否有效](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/is-valid-bst.cpp)
 - [x] [验证对称二叉树](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/is-symmetric.cpp)
-- [ ] [二叉树的层次遍历](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/level-order.cpp)
+- [x] [二叉树的层次遍历](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/level-order.cpp)
