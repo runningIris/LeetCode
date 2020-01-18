@@ -1,9 +1,6 @@
 # LeetCode
 
-## Primary Algorithms
-
-### Array
-
+## Array
 - [x] [从排序数组中删除重复项](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/duplicated-keys.cpp)
     - [x] 用 unordered_set 完成
     - [x] 相邻两个值比较，如果相等则删除后一个值
@@ -23,7 +20,7 @@
 - [x] [旋转图片90度](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/rotate-image.cpp)
     - [ ] 使用旋转4个矩形的方法来实现
 
-### String
+## String
 - [x] [反转字符串](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/revert-string.cpp)：对称交换便可
 - [x] [整数反转](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/revert-int.cpp): 注意值的范围判断处理和类型的隐式转换
 - [x] [有效的字母异位词](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/is-anagram.cpp)
@@ -33,16 +30,19 @@
 - [x] [实现 strStr()](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/str-str.cpp) (使用KMP算法)
 - [x] [外观数列](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/count-and-say.cpp)
 
-### Linked List
+## Linked List
 - [x] [删除节点](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/delete-node.cpp)
 - [x] [删除链表的倒数第N个节点](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/remove-nth-from-end.cpp)
 - [x] [反转链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/reverse-list.cpp)
 - [x] [合并两个有序链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/merge-two-list.cpp)
 - [x] [环形链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/has-cycle.cpp) 给定一个链表，判断链表中是否有环。(快慢指针)
 
-### Binary Tree
+## Binary Tree
 - [x] [二叉树的最大深度](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/max-depth.cpp)
 - [x] [验证二叉搜索树是否有效](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/is-valid-bst.cpp)
 - [x] [验证对称二叉树](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/is-symmetric.cpp)
 - [x] [二叉树的层次遍历](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/level-order.cpp)
 - [x] [将有序数组转换为二叉搜索树](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/sorted-array-to-bst.cpp)
+
+## Search
+- [x] [第一个错误的版本](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/searh/first-bad-version.cpp)
