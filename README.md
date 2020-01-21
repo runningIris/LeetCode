@@ -2,8 +2,6 @@
 
 ## Array
 - [x] [从排序数组中删除重复项](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/duplicated-keys.cpp)
-    - [x] 用 unordered_set 完成
-    - [x] 相邻两个值比较，如果相等则删除后一个值
 - [x] [买卖股票的最佳时机 II](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/max-profit.cpp)：只要第二天价格比当天低，则卖掉当天的股票
 - [x] [旋转一维数组](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/rotate.cpp)
 - [x] [给定一个整数数组，判断是否存在重复元素](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/contains-duplicate.cpp)
@@ -46,3 +44,6 @@
 
 ## Search
 - [x] [第一个错误的版本](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/searh/first-bad-version.cpp)
+
+## Dynamic Programming
+- [x] [爬楼梯](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/dynamic-programming/climb-stairs.cpp)
