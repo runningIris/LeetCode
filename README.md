@@ -48,3 +48,6 @@
 ## Dynamic Programming
 - [x] [爬楼梯](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/dynamic-programming/climb-stairs.cpp)
 - [x] [买卖股票的最佳时机](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/dynamic-programming/max-profit.cpp)
+
+## Design
+- [x] [最小栈](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/design/min-stack.cpp)
