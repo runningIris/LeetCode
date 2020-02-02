@@ -51,3 +51,6 @@
 
 ## Design
 - [x] [最小栈](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/design/min-stack.cpp)
+
+## Mathematic Problems
+- [x] [Fizz Buzz](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/math/fizz-buzz.cpp)
