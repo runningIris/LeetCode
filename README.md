@@ -61,3 +61,4 @@
 - [x] [计算二进制数里1的位数](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/hamming-weight.cpp)
 - [x] [汉明距离: 两个二进制整数之间对应位置不同的数目](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/hamming-distance.cpp)
 - [x] [颠倒二进制位](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/reverse-bits.cpp)
+- [x] [帕斯卡三角形](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/parscals-triangle.cpp)
