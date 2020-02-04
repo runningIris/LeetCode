@@ -10,13 +10,13 @@
 - [x] [加一](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/plus-one.cpp)：使用数组来表示整数可不受类型范围限制，处理好满十进一即可
 - [x] [移动零](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/move-zeroes.cpp)：数组元素的移动
 - [x] [两数之和](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/two-sum.cpp)
-    - [ ] 分别使用两遍哈希表和一遍哈希表实现
+    - [ ] update: 分别使用两遍哈希表和一遍哈希表实现
 
 - [x] [有效数独](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/is-valid-sudoku.cpp)
-    - [ ] 使用哈希表实现一次迭代
+    - [ ] update: 使用哈希表实现一次迭代
 
 - [x] [旋转图片90度](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/array/rotate-image.cpp)
-    - [ ] 使用旋转4个矩形的方法来实现
+    - [ ] update: 使用旋转4个矩形的方法来实现
 
 ## String
 - [x] [反转字符串](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/string/revert-string.cpp)：对称交换便可
@@ -56,4 +56,8 @@
 - [x] [Fizz Buzz](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/math/fizz-buzz.cpp)
 - [x] [给定一个整数，写一个函数来判断它是否是 3 的幂次方](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/math/power-of-3.cpp)
 - [x] [罗马数字转整数](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/math/roman-to-int.cpp)
-- [x] [计算二进制数里1的位数](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/math/hamming-weight.cpp)
+
+## Other Problems
+- [x] [计算二进制数里1的位数](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/hamming-weight.cpp)
+- [x] [汉明距离: 两个二进制整数之间对应位置不同的数目](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/hamming-distance.cpp)
+- [x] [颠倒二进制位](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/reverse-bits.cpp)
