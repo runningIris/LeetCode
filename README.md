@@ -62,3 +62,4 @@
 - [x] [汉明距离: 两个二进制整数之间对应位置不同的数目](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/hamming-distance.cpp)
 - [x] [颠倒二进制位](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/reverse-bits.cpp)
 - [x] [帕斯卡三角形](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/parscals-triangle.cpp)
+- [x] [有效的括号](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/valid-parenthese.cpp)
