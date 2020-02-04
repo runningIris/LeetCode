@@ -7,7 +7,7 @@
 你可以假设 nums1 有足够的空间（空间大小大于或等于 m + n）来保存 nums2 中的元素。
 */
 
-// 双指针
+// 双指针 时间 O(m+n), 空间 O(m)
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
@@ -35,6 +35,33 @@ public:
                 b++;
             }
             i++;
+        }
+    }
+};
+
+// 双指针，从后往前, 时间 O(m+n), 空间 O(1)
+class Solution {
+public:
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        int i = m + n - 1;
+
+        while (m > 0 || n > 0) {
+            if (m > 0 && n > 0) {
+                if (nums1[m - 1] > nums2[n - 1]) {
+                    nums1[i] = nums1[m - 1];
+                    m--;
+                } else {
+                    nums1[i] = nums2[n - 1];
+                    n--;
+                }
+            } else if (m > 0) {
+                nums1[i] = nums1[m - 1];
+                m--;
+            } else {
+                nums1[i] = nums2[n - 1];
+                n--;
+            }
+            i--;
         }
     }
 };
