@@ -43,8 +43,9 @@
 - [x] [二叉树的层次遍历](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/level-order.cpp)
 - [x] [将有序数组转换为二叉搜索树](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/sorted-array-to-bst.cpp)
 
-## Search
+## Search & Sorting
 - [x] [第一个错误的版本](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/searh/first-bad-version.cpp)
+- [x] [合并两个排序数组](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/sorting/merge.cpp)
 
 ## Dynamic Programming
 - [x] [爬楼梯](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/dynamic-programming/climb-stairs.cpp)
