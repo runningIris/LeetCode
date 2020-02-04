@@ -63,3 +63,4 @@
 - [x] [颠倒二进制位](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/reverse-bits.cpp)
 - [x] [帕斯卡三角形](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/parscals-triangle.cpp)
 - [x] [有效的括号](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/valid-parenthese.cpp)
+- [x] [缺失数字](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/missing-number.cpp)
