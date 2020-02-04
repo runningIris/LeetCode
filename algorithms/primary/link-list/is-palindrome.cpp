@@ -22,3 +22,26 @@ public:
         return 1;
     }
 };
+
+// 递归方法，妙啊！
+class Solution {
+private:
+    ListNode* frontPointer;
+private:
+    bool recursivelyCheck(ListNode* currentNode) {
+        if (currentNode != NULL) {
+            // 递归触底，反弹
+            if (!recursivelyCheck(currentNode->next)) return false;
+            // 触底之后，把递归的返回值和正向值对比
+            if (currentNode->val != frontPointer->val) return false;
+            // 正向值指向下一位
+            frontPointer = frontPointer->next;
+        }
+        return true;
+    }
+public:
+    bool isPalindrome(ListNode* head) {
+        frontPointer = head;
+        return recursivelyCheck(head);
+    }
+};
