@@ -35,6 +35,8 @@
 - [x] [合并两个有序链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/merge-two-list.cpp)
 - [x] [环形链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/has-cycle.cpp) 给定一个链表，判断链表中是否有环。(快慢指针)
 - [x] [回文链表](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/link-list/is-palindrome.cpp)
+    - [x] 栈方法
+    - [x] update: 递归方法
 
 ## Binary Tree
 - [x] [二叉树的最大深度](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/binary-tree/max-depth.cpp)
@@ -46,17 +48,22 @@
 ## Search & Sorting
 - [x] [第一个错误的版本](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/searh/first-bad-version.cpp)
 - [x] [合并两个排序数组](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/sorting/merge.cpp)
+    - [x] 双指针 时间 O(m+n), 空间 O(m)
+    - [x] update: 双指针，从后往前, 时间 O(m+n), 空间 O(1)
 
 ## Dynamic Programming
 - [x] [爬楼梯](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/dynamic-programming/climb-stairs.cpp)
 - [x] [买卖股票的最佳时机](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/dynamic-programming/max-profit.cpp)
 - [x] [最大子序和](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/dynamic-programming/max-sub-array.cpp)
+    - [x] 贪心算法
     - [ ] update: 理解分治法和动态规划（Kadane 算法）
 
 ## Design
 - [x] [最小栈](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/design/min-stack.cpp)
 - [x] [打乱数组](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/design/shuffle-reset-array.cpp)
+    - [x] 暴力打乱数组
     - [x] update: Fisher-Yates 洗牌算法
+
 ## Mathematic Problems
 - [x] [Fizz Buzz](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/math/fizz-buzz.cpp)
 - [x] [给定一个整数，写一个函数来判断它是否是 3 的幂次方](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/math/power-of-3.cpp)
@@ -69,3 +76,6 @@
 - [x] [帕斯卡三角形](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/parscals-triangle.cpp)
 - [x] [有效的括号](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/valid-parenthese.cpp)
 - [x] [缺失数字](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/other/missing-number.cpp)
+    - [x] 哈希映射 两次遍历
+    - [x] update: 或与运算
+    - [x] update: 0->n 的总和减去数组之和
