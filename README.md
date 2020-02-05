@@ -67,6 +67,7 @@
 
 ## Mathematic Problems
 - [x] [Fizz Buzz](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/math/fizz-buzz.cpp)
+- [x] [计算质数](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/math/count-primes.cpp)
 - [x] [给定一个整数，写一个函数来判断它是否是 3 的幂次方](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/math/power-of-3.cpp)
 - [x] [罗马数字转整数](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/math/roman-to-int.cpp)
 
