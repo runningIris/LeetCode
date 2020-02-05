@@ -57,7 +57,7 @@
 - [x] [最大子序和](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/dynamic-programming/max-sub-array.cpp)
     - [x] 贪心算法
     - [ ] update: 理解分治法和动态规划（Kadane 算法）
-- [x] [打家劫舍]
+- [x] [打家劫舍](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/dynamic-programming/rob.cpp)
 
 ## Design
 - [x] [最小栈](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/design/min-stack.cpp)
