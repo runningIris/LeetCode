@@ -51,10 +51,12 @@
 - [x] [爬楼梯](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/dynamic-programming/climb-stairs.cpp)
 - [x] [买卖股票的最佳时机](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/dynamic-programming/max-profit.cpp)
 - [x] [最大子序和](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/dynamic-programming/max-sub-array.cpp)
+    - [ ] update: 理解分治法和动态规划（Kadane 算法）
 
 ## Design
 - [x] [最小栈](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/design/min-stack.cpp)
-
+- [x] [打乱数组](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/design/shuffle-reset-array.cpp)
+    - [x] update: Fisher-Yates 洗牌算法
 ## Mathematic Problems
 - [x] [Fizz Buzz](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/math/fizz-buzz.cpp)
 - [x] [给定一个整数，写一个函数来判断它是否是 3 的幂次方](https://github.com/runningIris/LeetCode/blob/master/algorithms/primary/math/power-of-3.cpp)
