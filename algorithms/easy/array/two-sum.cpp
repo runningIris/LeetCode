@@ -17,3 +17,25 @@ public:
         throw 20;
     }
 };
+
+// 一遍哈希表实现 时间 O(n), 空间 O(n)
+// 如果目标值已在 map 中, 则返回两个值组成的数组, 否则, 记录下当前值进 map 和 index
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> map;
+        unordered_map<int, int> index;
+        int size = (int)nums.size();
+
+        for (int i = 0; i < size; i++) {
+            int complement = target - nums[i];
+            if (map[complement] != 1) {
+                map[nums[i]] = 1;
+                index[nums[i]] = i;
+            } else {
+                return vector<int>({i, index[complement]});
+            }
+        }
+        throw "No matching numbers.";
+    }
+};
