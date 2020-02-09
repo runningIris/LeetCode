@@ -20,8 +20,9 @@
 
 ---
 
+- [x] [三数之和](https://github.com/runningIris/LeetCode/blob/master/algorithms/medium/array/3-sum.cpp)
 - [x] [矩阵置零](https://github.com/runningIris/LeetCode/blob/master/algorithms/medium/array/set-zeroes.cpp)
-
+- [x] [字谜分组](https://github.com/runningIris/LeetCode/blob/master/algorithms/medium/array/group-anagram.cpp)
 
 ## String
 - [x] [反转字符串](https://github.com/runningIris/LeetCode/blob/master/algorithms/easy/string/revert-string.cpp)：对称交换便可
